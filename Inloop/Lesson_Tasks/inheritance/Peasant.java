@@ -1,0 +1,4 @@
+class Peasant extends Inhabitant
+{
+    
+}
